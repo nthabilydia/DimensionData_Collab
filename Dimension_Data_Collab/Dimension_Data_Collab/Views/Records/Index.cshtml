@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Dimension_Data_Collab.Models.Record>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Promo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumOfComp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearsAtCurrComp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearsRole)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalWorkingYears)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Promo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumOfComp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearsAtCurrComp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearsRole)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalWorkingYears)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.WorkRid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.WorkRid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.WorkRid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

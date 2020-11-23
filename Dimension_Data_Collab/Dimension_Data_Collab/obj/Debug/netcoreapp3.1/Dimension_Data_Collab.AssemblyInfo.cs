@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Dimension_Data_Collab-5300977B-22A5-4E83-B064-39AE413EEEB3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dimension_Data_Collab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]

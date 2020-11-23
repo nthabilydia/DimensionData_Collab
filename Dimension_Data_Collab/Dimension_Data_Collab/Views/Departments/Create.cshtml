@@ -1,0 +1,59 @@
+﻿@model Dimension_Data_Collab.Models.Department
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Department</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DepartmentId" class="control-label"></label>
+                <input asp-for="DepartmentId" class="form-control" />
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartmentType" class="control-label"></label>
+                <input asp-for="DepartmentType" class="form-control" />
+                <span asp-validation-for="DepartmentType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BusinessTravel" class="control-label"></label>
+                <input asp-for="BusinessTravel" class="form-control" />
+                <span asp-validation-for="BusinessTravel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobRole" class="control-label"></label>
+                <input asp-for="JobRole" class="form-control" />
+                <span asp-validation-for="JobRole" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobLevel" class="control-label"></label>
+                <input asp-for="JobLevel" class="form-control" />
+                <span asp-validation-for="JobLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobInvolve" class="control-label"></label>
+                <input asp-for="JobInvolve" class="form-control" />
+                <span asp-validation-for="JobInvolve" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

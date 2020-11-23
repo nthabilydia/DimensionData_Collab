@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nthabiseng\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj": {}
+    "C:\\Users\\CHIEF\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nthabiseng\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj": {
+    "C:\\Users\\CHIEF\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nthabiseng\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj",
+        "projectUniqueName": "C:\\Users\\CHIEF\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj",
         "projectName": "Dimension_Data_Collab",
-        "projectPath": "C:\\Users\\nthabiseng\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj",
-        "packagesPath": "C:\\Users\\nthabiseng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nthabiseng\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\obj\\",
+        "projectPath": "C:\\Users\\CHIEF\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab.csproj",
+        "packagesPath": "C:\\Users\\CHIEF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CHIEF\\Desktop\\Dimension_Data_Collab\\Dimension_Data_Collab\\Dimension_Data_Collab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nthabiseng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CHIEF\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -51,11 +52,21 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [

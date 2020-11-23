@@ -1,0 +1,1471 @@
+EmployeeNumber,EducationField,Department,Education
+1,Life Sciences,Sales,2
+2,Life Sciences,Research & Development,1
+4,Other,Research & Development,2
+5,Life Sciences,Research & Development,4
+7,Medical,Research & Development,1
+8,Life Sciences,Research & Development,2
+10,Medical,Research & Development,3
+11,Life Sciences,Research & Development,1
+12,Life Sciences,Research & Development,3
+13,Medical,Research & Development,3
+14,Medical,Research & Development,3
+15,Life Sciences,Research & Development,2
+16,Life Sciences,Research & Development,1
+18,Medical,Research & Development,2
+19,Life Sciences,Research & Development,3
+20,Life Sciences,Research & Development,4
+21,Life Sciences,Research & Development,2
+22,Medical,Research & Development,2
+23,Life Sciences,Sales,4
+24,Life Sciences,Research & Development,3
+26,Other,Research & Development,2
+27,Life Sciences,Sales,4
+28,Life Sciences,Research & Development,4
+30,Life Sciences,Research & Development,2
+31,Medical,Research & Development,1
+32,Other,Research & Development,3
+33,Life Sciences,Research & Development,1
+35,Marketing,Sales,4
+36,Medical,Research & Development,4
+38,Marketing,Sales,4
+39,Medical,Research & Development,3
+40,Other,Research & Development,4
+41,Medical,Research & Development,2
+42,Technical Degree,Sales,3
+45,Medical,Research & Development,3
+46,Medical,Research & Development,2
+47,Marketing,Sales,2
+49,Marketing,Sales,3
+51,Life Sciences,Research & Development,4
+52,Life Sciences,Sales,3
+53,Other,Research & Development,2
+54,Life Sciences,Research & Development,4
+55,Life Sciences,Research & Development,3
+56,Life Sciences,Sales,3
+57,Medical,Research & Development,2
+58,Technical Degree,Research & Development,3
+60,Marketing,Sales,4
+61,Life Sciences,Research & Development,2
+62,Marketing,Sales,4
+63,Life Sciences,Research & Development,1
+64,Life Sciences,Research & Development,2
+65,Technical Degree,Research & Development,4
+68,Marketing,Sales,5
+70,Medical,Research & Development,2
+72,Marketing,Sales,3
+73,Life Sciences,Research & Development,2
+74,Life Sciences,Sales,5
+75,Medical,Research & Development,4
+76,Life Sciences,Research & Development,4
+77,Life Sciences,Research & Development,4
+78,Medical,Research & Development,3
+79,Life Sciences,Research & Development,5
+80,Medical,Research & Development,2
+81,Life Sciences,Sales,3
+83,Technical Degree,Research & Development,3
+84,Medical,Research & Development,3
+85,Life Sciences,Research & Development,3
+86,Life Sciences,Research & Development,3
+88,Medical,Research & Development,3
+90,Medical,Research & Development,3
+91,Life Sciences,Sales,1
+94,Life Sciences,Research & Development,3
+95,Medical,Research & Development,4
+96,Life Sciences,Research & Development,3
+97,Life Sciences,Research & Development,3
+98,Life Sciences,Research & Development,4
+100,Marketing,Sales,4
+101,Other,Research & Development,4
+102,Medical,Research & Development,4
+103,Medical,Human Resources,2
+104,Life Sciences,Research & Development,1
+105,Medical,Research & Development,3
+106,Life Sciences,Sales,2
+107,Medical,Research & Development,3
+110,Medical,Research & Development,2
+112,Life Sciences,Research & Development,3
+113,Technical Degree,Sales,1
+116,Life Sciences,Research & Development,4
+117,Life Sciences,Research & Development,3
+118,Medical,Sales,2
+119,Life Sciences,Research & Development,4
+120,Marketing,Sales,4
+121,Medical,Sales,2
+124,Medical,Research & Development,3
+125,Medical,Sales,4
+126,Technical Degree,Research & Development,4
+128,Other,Sales,2
+129,Medical,Sales,3
+131,Medical,Sales,4
+132,Medical,Research & Development,3
+133,Human Resources,Human Resources,4
+134,Life Sciences,Research & Development,1
+137,Life Sciences,Research & Development,3
+138,Other,Research & Development,4
+139,Life Sciences,Research & Development,2
+140,Human Resources,Human Resources,4
+141,Life Sciences,Research & Development,3
+142,Marketing,Sales,3
+143,Medical,Research & Development,1
+144,Medical,Research & Development,3
+145,Medical,Research & Development,4
+147,Life Sciences,Research & Development,3
+148,Human Resources,Human Resources,3
+150,Life Sciences,Research & Development,1
+151,Life Sciences,Research & Development,4
+152,Life Sciences,Sales,3
+153,Medical,Research & Development,3
+154,Technical Degree,Sales,2
+155,Life Sciences,Research & Development,2
+158,Life Sciences,Sales,2
+159,Life Sciences,Research & Development,3
+160,Marketing,Sales,2
+161,Life Sciences,Research & Development,4
+162,Life Sciences,Research & Development,3
+163,Life Sciences,Sales,4
+164,Other,Research & Development,3
+165,Medical,Research & Development,4
+167,Marketing,Sales,1
+169,Technical Degree,Research & Development,1
+170,Medical,Research & Development,4
+171,Medical,Research & Development,3
+174,Marketing,Sales,3
+175,Life Sciences,Sales,3
+176,Life Sciences,Sales,1
+177,Life Sciences,Human Resources,1
+178,Medical,Research & Development,2
+179,Life Sciences,Research & Development,4
+182,Life Sciences,Sales,4
+183,Life Sciences,Sales,3
+184,Human Resources,Human Resources,3
+190,Medical,Research & Development,3
+192,Medical,Research & Development,3
+193,Technical Degree,Research & Development,5
+194,Life Sciences,Research & Development,3
+195,Medical,Sales,2
+197,Technical Degree,Research & Development,3
+198,Medical,Research & Development,1
+199,Life Sciences,Research & Development,3
+200,Life Sciences,Research & Development,4
+201,Medical,Research & Development,1
+202,Medical,Research & Development,3
+204,Marketing,Sales,5
+205,Marketing,Sales,2
+206,Life Sciences,Research & Development,3
+207,Marketing,Sales,3
+208,Technical Degree,Research & Development,1
+211,Medical,Research & Development,4
+214,Medical,Research & Development,3
+215,Marketing,Sales,4
+216,Marketing,Sales,4
+217,Medical,Research & Development,1
+218,Medical,Research & Development,3
+221,Medical,Research & Development,3
+223,Life Sciences,Research & Development,2
+224,Medical,Research & Development,3
+226,Life Sciences,Research & Development,3
+227,Life Sciences,Research & Development,3
+228,Life Sciences,Sales,3
+230,Life Sciences,Sales,4
+231,Life Sciences,Research & Development,5
+233,Technical Degree,Research & Development,3
+235,Technical Degree,Sales,1
+238,Medical,Research & Development,2
+239,Medical,Research & Development,3
+240,Life Sciences,Sales,2
+241,Life Sciences,Research & Development,3
+242,Life Sciences,Research & Development,3
+243,Life Sciences,Research & Development,3
+244,Marketing,Sales,2
+245,Life Sciences,Research & Development,2
+246,Medical,Research & Development,1
+247,Medical,Research & Development,2
+248,Marketing,Sales,2
+249,Medical,Research & Development,3
+250,Medical,Research & Development,2
+252,Medical,Research & Development,3
+253,Medical,Research & Development,1
+254,Medical,Research & Development,4
+256,Life Sciences,Research & Development,1
+258,Medical,Research & Development,3
+259,Life Sciences,Research & Development,4
+260,Medical,Research & Development,3
+261,Life Sciences,Research & Development,2
+262,Medical,Research & Development,3
+264,Medical,Research & Development,2
+267,Life Sciences,Research & Development,3
+269,Medical,Research & Development,3
+270,Medical,Research & Development,2
+271,Life Sciences,Research & Development,4
+273,Technical Degree,Research & Development,3
+274,Technical Degree,Research & Development,1
+275,Life Sciences,Research & Development,4
+277,Medical,Research & Development,4
+281,Medical,Research & Development,2
+282,Medical,Research & Development,1
+283,Marketing,Sales,3
+284,Life Sciences,Research & Development,3
+286,Medical,Research & Development,1
+287,Life Sciences,Research & Development,5
+288,Medical,Research & Development,4
+291,Medical,Sales,4
+292,Life Sciences,Research & Development,1
+293,Life Sciences,Sales,3
+296,Life Sciences,Research & Development,4
+297,Technical Degree,Research & Development,3
+298,Life Sciences,Sales,3
+299,Marketing,Sales,4
+300,Technical Degree,Research & Development,3
+302,Medical,Sales,3
+303,Marketing,Sales,3
+304,Life Sciences,Research & Development,2
+305,Medical,Research & Development,4
+306,Other,Research & Development,3
+307,Life Sciences,Sales,3
+308,Medical,Research & Development,4
+309,Life Sciences,Research & Development,3
+311,Marketing,Sales,4
+312,Medical,Sales,1
+314,Marketing,Sales,3
+315,Medical,Research & Development,1
+316,Life Sciences,Research & Development,3
+319,Technical Degree,Research & Development,2
+321,Medical,Human Resources,2
+323,Medical,Sales,4
+325,Medical,Research & Development,3
+327,Marketing,Sales,3
+328,Life Sciences,Research & Development,2
+329,Life Sciences,Sales,4
+330,Life Sciences,Sales,2
+331,Life Sciences,Research & Development,3
+332,Medical,Research & Development,4
+333,Marketing,Sales,4
+334,Life Sciences,Research & Development,2
+335,Technical Degree,Research & Development,2
+336,Other,Research & Development,3
+337,Medical,Research & Development,4
+338,Life Sciences,Research & Development,4
+339,Life Sciences,Research & Development,4
+340,Medical,Research & Development,2
+341,Life Sciences,Research & Development,4
+342,Medical,Research & Development,3
+343,Technical Degree,Research & Development,4
+346,Life Sciences,Research & Development,3
+347,Life Sciences,Research & Development,2
+349,Marketing,Sales,2
+350,Life Sciences,Research & Development,3
+351,Medical,Research & Development,3
+352,Medical,Research & Development,2
+353,Life Sciences,Research & Development,3
+355,Medical,Research & Development,2
+359,Life Sciences,Research & Development,3
+361,Life Sciences,Sales,2
+362,Technical Degree,Research & Development,1
+363,Technical Degree,Sales,3
+364,Life Sciences,Research & Development,4
+366,Medical,Sales,3
+367,Medical,Research & Development,3
+369,Life Sciences,Research & Development,2
+372,Medical,Research & Development,2
+373,Life Sciences,Research & Development,3
+374,Medical,Research & Development,3
+376,Life Sciences,Research & Development,4
+377,Medical,Research & Development,3
+378,Medical,Sales,4
+379,Medical,Research & Development,2
+380,Medical,Research & Development,4
+381,Life Sciences,Research & Development,3
+382,Medical,Sales,2
+384,Life Sciences,Research & Development,3
+385,Life Sciences,Research & Development,1
+386,Medical,Research & Development,4
+387,Life Sciences,Sales,1
+388,Life Sciences,Sales,2
+389,Technical Degree,Research & Development,2
+390,Medical,Research & Development,2
+391,Life Sciences,Research & Development,3
+392,Life Sciences,Research & Development,3
+393,Life Sciences,Research & Development,4
+394,Medical,Research & Development,4
+395,Life Sciences,Research & Development,2
+396,Life Sciences,Research & Development,4
+397,Technical Degree,Research & Development,3
+399,Marketing,Sales,3
+401,Marketing,Sales,4
+403,Medical,Research & Development,3
+404,Marketing,Sales,3
+405,Life Sciences,Research & Development,3
+406,Marketing,Sales,3
+407,Life Sciences,Research & Development,4
+408,Medical,Research & Development,3
+410,Life Sciences,Sales,4
+411,Medical,Sales,3
+412,Medical,Research & Development,2
+416,Technical Degree,Sales,3
+417,Medical,Research & Development,3
+419,Life Sciences,Research & Development,4
+420,Life Sciences,Sales,3
+421,Life Sciences,Research & Development,2
+422,Life Sciences,Research & Development,4
+423,Technical Degree,Research & Development,4
+424,Human Resources,Human Resources,3
+425,Life Sciences,Research & Development,3
+426,Life Sciences,Research & Development,4
+428,Life Sciences,Research & Development,4
+429,Medical,Research & Development,1
+430,Life Sciences,Research & Development,4
+431,Technical Degree,Research & Development,2
+433,Medical,Research & Development,4
+434,Life Sciences,Research & Development,3
+436,Technical Degree,Sales,2
+437,Life Sciences,Sales,3
+438,Marketing,Sales,3
+439,Medical,Research & Development,4
+440,Medical,Research & Development,4
+441,Medical,Research & Development,2
+442,Life Sciences,Research & Development,2
+444,Medical,Research & Development,2
+445,Medical,Sales,2
+446,Marketing,Sales,3
+447,Life Sciences,Research & Development,5
+448,Life Sciences,Research & Development,4
+449,Marketing,Sales,1
+450,Life Sciences,Research & Development,4
+451,Life Sciences,Research & Development,3
+452,Other,Research & Development,4
+453,Medical,Sales,2
+454,Other,Research & Development,4
+455,Other,Research & Development,5
+456,Marketing,Sales,3
+458,Marketing,Sales,4
+460,Medical,Research & Development,2
+461,Life Sciences,Research & Development,2
+462,Medical,Research & Development,4
+463,Marketing,Sales,1
+464,Technical Degree,Research & Development,4
+465,Life Sciences,Research & Development,1
+466,Medical,Research & Development,3
+467,Medical,Sales,1
+468,Life Sciences,Research & Development,5
+469,Life Sciences,Sales,3
+470,Technical Degree,Human Resources,1
+471,Medical,Research & Development,3
+473,Medical,Sales,1
+474,Medical,Research & Development,3
+475,Technical Degree,Sales,2
+476,Life Sciences,Sales,3
+477,Other,Research & Development,4
+478,Technical Degree,Sales,1
+479,Medical,Sales,5
+481,Medical,Sales,4
+482,Medical,Research & Development,4
+483,Life Sciences,Research & Development,4
+484,Medical,Sales,2
+485,Marketing,Sales,3
+486,Medical,Research & Development,3
+487,Medical,Research & Development,4
+488,Marketing,Sales,3
+491,Technical Degree,Research & Development,3
+492,Marketing,Sales,2
+493,Life Sciences,Research & Development,4
+494,Life Sciences,Sales,3
+495,Life Sciences,Research & Development,3
+496,Life Sciences,Research & Development,4
+497,Medical,Research & Development,2
+498,Life Sciences,Sales,4
+499,Other,Research & Development,3
+500,Life Sciences,Sales,2
+501,Life Sciences,Research & Development,3
+502,Marketing,Sales,3
+505,Life Sciences,Research & Development,3
+507,Marketing,Sales,4
+508,Technical Degree,Sales,1
+510,Technical Degree,Research & Development,1
+511,Medical,Research & Development,3
+513,Medical,Sales,2
+514,Technical Degree,Research & Development,3
+515,Life Sciences,Research & Development,3
+516,Marketing,Sales,2
+517,Life Sciences,Research & Development,4
+518,Life Sciences,Research & Development,4
+520,Life Sciences,Research & Development,3
+521,Medical,Research & Development,3
+522,Medical,Research & Development,2
+523,Marketing,Sales,4
+524,Medical,Research & Development,2
+525,Medical,Research & Development,3
+526,Other,Research & Development,4
+527,Life Sciences,Sales,2
+529,Medical,Research & Development,5
+530,Life Sciences,Research & Development,2
+531,Life Sciences,Research & Development,1
+532,Life Sciences,Sales,3
+533,Technical Degree,Sales,3
+534,Marketing,Sales,3
+536,Medical,Research & Development,2
+538,Medical,Research & Development,3
+543,Medical,Research & Development,3
+544,Life Sciences,Research & Development,2
+546,Life Sciences,Research & Development,2
+547,Life Sciences,Research & Development,2
+548,Life Sciences,Research & Development,3
+549,Life Sciences,Research & Development,3
+550,Medical,Research & Development,3
+551,Technical Degree,Research & Development,4
+554,Technical Degree,Sales,1
+555,Marketing,Sales,2
+556,Life Sciences,Research & Development,2
+558,Life Sciences,Sales,4
+560,Life Sciences,Research & Development,3
+562,Life Sciences,Research & Development,3
+564,Medical,Research & Development,4
+565,Technical Degree,Research & Development,5
+566,Technical Degree,Human Resources,2
+567,Other,Sales,4
+568,Marketing,Sales,3
+569,Life Sciences,Research & Development,4
+571,Medical,Research & Development,3
+573,Marketing,Sales,3
+574,Medical,Research & Development,2
+575,Life Sciences,Research & Development,3
+577,Life Sciences,Research & Development,3
+578,Life Sciences,Research & Development,4
+579,Life Sciences,Research & Development,4
+580,Marketing,Sales,3
+581,Life Sciences,Research & Development,1
+582,Medical,Research & Development,1
+584,Medical,Research & Development,1
+585,Marketing,Sales,1
+586,Life Sciences,Research & Development,3
+587,Life Sciences,Research & Development,3
+590,Human Resources,Human Resources,3
+591,Other,Research & Development,2
+592,Medical,Sales,4
+593,Technical Degree,Research & Development,1
+595,Marketing,Sales,5
+597,Life Sciences,Sales,5
+599,Life Sciences,Sales,2
+600,Marketing,Sales,3
+601,Life Sciences,Research & Development,3
+602,Life Sciences,Research & Development,1
+604,Life Sciences,Sales,1
+605,Medical,Research & Development,3
+606,Other,Sales,3
+608,Life Sciences,Human Resources,4
+611,Technical Degree,Research & Development,3
+612,Medical,Research & Development,5
+613,Life Sciences,Sales,3
+614,Marketing,Sales,3
+615,Other,Sales,3
+616,Other,Research & Development,4
+618,Medical,Sales,2
+620,Medical,Sales,3
+621,Life Sciences,Sales,4
+622,Technical Degree,Research & Development,3
+623,Technical Degree,Research & Development,3
+624,Medical,Research & Development,1
+625,Life Sciences,Sales,5
+626,Medical,Sales,4
+630,Technical Degree,Research & Development,2
+631,Other,Sales,4
+632,Medical,Sales,3
+634,Medical,Research & Development,3
+635,Life Sciences,Research & Development,4
+638,Life Sciences,Research & Development,4
+639,Medical,Research & Development,3
+641,Marketing,Sales,2
+643,Other,Research & Development,2
+644,Medical,Human Resources,3
+645,Medical,Sales,1
+647,Life Sciences,Research & Development,3
+648,Life Sciences,Sales,4
+649,Life Sciences,Research & Development,2
+650,Medical,Sales,4
+652,Other,Research & Development,2
+653,Medical,Sales,4
+655,Medical,Research & Development,4
+656,Marketing,Sales,3
+657,Life Sciences,Research & Development,3
+659,Life Sciences,Research & Development,4
+661,Other,Research & Development,4
+662,Life Sciences,Research & Development,1
+663,Medical,Research & Development,5
+664,Life Sciences,Research & Development,4
+665,Life Sciences,Human Resources,4
+666,Technical Degree,Sales,3
+667,Marketing,Sales,1
+669,Technical Degree,Sales,1
+671,Other,Research & Development,4
+675,Medical,Research & Development,1
+677,Marketing,Sales,4
+679,Life Sciences,Research & Development,4
+680,Medical,Research & Development,3
+682,Medical,Sales,1
+683,Life Sciences,Research & Development,5
+684,Life Sciences,Sales,4
+686,Life Sciences,Research & Development,3
+689,Other,Research & Development,3
+690,Medical,Sales,2
+691,Life Sciences,Research & Development,4
+692,Life Sciences,Research & Development,3
+698,Medical,Human Resources,4
+699,Medical,Research & Development,2
+700,Medical,Research & Development,4
+701,Medical,Research & Development,1
+702,Life Sciences,Research & Development,3
+704,Life Sciences,Research & Development,3
+705,Medical,Research & Development,3
+707,Life Sciences,Sales,3
+709,Marketing,Sales,4
+710,Life Sciences,Research & Development,4
+712,Marketing,Sales,1
+714,Medical,Sales,1
+715,Life Sciences,Research & Development,2
+716,Medical,Research & Development,1
+717,Medical,Research & Development,3
+720,Life Sciences,Sales,2
+721,Technical Degree,Research & Development,4
+722,Marketing,Sales,3
+723,Technical Degree,Sales,2
+724,Life Sciences,Research & Development,4
+725,Life Sciences,Research & Development,2
+727,Life Sciences,Research & Development,2
+728,Marketing,Sales,4
+729,Life Sciences,Sales,4
+730,Life Sciences,Research & Development,3
+731,Human Resources,Human Resources,4
+732,Marketing,Sales,4
+733,Life Sciences,Research & Development,2
+734,Human Resources,Human Resources,3
+738,Marketing,Sales,4
+741,Life Sciences,Research & Development,2
+742,Life Sciences,Research & Development,3
+743,Life Sciences,Research & Development,3
+744,Medical,Research & Development,3
+746,Medical,Sales,3
+747,Marketing,Sales,5
+749,Life Sciences,Sales,3
+752,Medical,Research & Development,3
+754,Life Sciences,Sales,3
+757,Medical,Research & Development,2
+758,Medical,Research & Development,1
+760,Human Resources,Human Resources,3
+762,Medical,Research & Development,3
+763,Medical,Research & Development,1
+764,Medical,Research & Development,3
+766,Marketing,Sales,3
+769,Life Sciences,Research & Development,3
+771,Life Sciences,Research & Development,4
+772,Life Sciences,Research & Development,4
+773,Medical,Research & Development,5
+775,Life Sciences,Research & Development,5
+776,Marketing,Sales,4
+780,Other,Research & Development,4
+781,Medical,Sales,1
+783,Technical Degree,Sales,2
+784,Medical,Research & Development,1
+785,Life Sciences,Sales,2
+786,Other,Sales,3
+787,Medical,Research & Development,3
+789,Life Sciences,Sales,4
+791,Medical,Research & Development,4
+792,Life Sciences,Research & Development,2
+793,Medical,Research & Development,3
+796,Technical Degree,Sales,3
+797,Life Sciences,Research & Development,4
+799,Medical,Research & Development,4
+800,Marketing,Sales,1
+802,Life Sciences,Research & Development,1
+803,Life Sciences,Research & Development,4
+804,Medical,Research & Development,4
+805,Life Sciences,Sales,4
+806,Life Sciences,Research & Development,3
+807,Medical,Research & Development,2
+808,Life Sciences,Sales,2
+809,Life Sciences,Research & Development,3
+811,Life Sciences,Research & Development,3
+812,Life Sciences,Research & Development,3
+813,Life Sciences,Research & Development,4
+815,Medical,Research & Development,3
+816,Life Sciences,Research & Development,2
+817,Medical,Research & Development,3
+819,Marketing,Sales,3
+820,Other,Research & Development,2
+823,Other,Research & Development,3
+824,Life Sciences,Research & Development,2
+825,Life Sciences,Research & Development,4
+826,Life Sciences,Research & Development,4
+827,Life Sciences,Research & Development,2
+828,Medical,Research & Development,4
+829,Human Resources,Human Resources,3
+830,Life Sciences,Research & Development,3
+832,Medical,Research & Development,4
+833,Medical,Research & Development,3
+834,Life Sciences,Research & Development,3
+836,Life Sciences,Research & Development,3
+837,Life Sciences,Research & Development,3
+838,Life Sciences,Research & Development,4
+840,Marketing,Sales,3
+842,Medical,Sales,1
+843,Life Sciences,Research & Development,2
+844,Technical Degree,Research & Development,1
+845,Other,Research & Development,3
+846,Marketing,Sales,4
+847,Human Resources,Human Resources,2
+848,Medical,Research & Development,2
+850,Medical,Research & Development,3
+851,Marketing,Sales,4
+852,Medical,Research & Development,3
+854,Medical,Research & Development,1
+855,Medical,Sales,3
+856,Medical,Research & Development,1
+857,Life Sciences,Sales,2
+859,Life Sciences,Sales,4
+861,Life Sciences,Research & Development,4
+862,Marketing,Sales,2
+864,Marketing,Sales,3
+865,Medical,Research & Development,2
+867,Medical,Research & Development,4
+868,Marketing,Sales,4
+869,Medical,Human Resources,2
+872,Life Sciences,Research & Development,2
+874,Life Sciences,Research & Development,4
+875,Medical,Research & Development,1
+878,Life Sciences,Human Resources,3
+879,Other,Sales,1
+880,Life Sciences,Research & Development,3
+881,Life Sciences,Research & Development,4
+882,Life Sciences,Research & Development,3
+885,Marketing,Sales,1
+887,Technical Degree,Research & Development,3
+888,Life Sciences,Research & Development,1
+889,Life Sciences,Sales,2
+893,Marketing,Sales,3
+894,Life Sciences,Research & Development,3
+895,Life Sciences,Research & Development,4
+896,Medical,Sales,3
+897,Marketing,Sales,3
+899,Technical Degree,Research & Development,3
+900,Medical,Sales,2
+901,Life Sciences,Research & Development,4
+902,Life Sciences,Research & Development,3
+903,Marketing,Sales,2
+904,Medical,Sales,2
+905,Life Sciences,Research & Development,4
+909,Life Sciences,Human Resources,3
+910,Human Resources,Human Resources,2
+911,Life Sciences,Research & Development,4
+912,Medical,Research & Development,1
+913,Life Sciences,Research & Development,2
+916,Medical,Sales,4
+918,Life Sciences,Research & Development,1
+920,Life Sciences,Research & Development,3
+922,Medical,Sales,3
+923,Other,Research & Development,1
+924,Life Sciences,Research & Development,1
+925,Life Sciences,Sales,4
+926,Life Sciences,Research & Development,1
+927,Life Sciences,Research & Development,4
+930,Medical,Research & Development,3
+932,Medical,Research & Development,3
+933,Life Sciences,Research & Development,3
+934,Life Sciences,Research & Development,3
+936,Medical,Sales,2
+939,Other,Research & Development,4
+940,Technical Degree,Research & Development,3
+941,Life Sciences,Sales,4
+942,Life Sciences,Research & Development,1
+944,Other,Research & Development,2
+945,Medical,Research & Development,4
+947,Marketing,Sales,2
+949,Other,Research & Development,4
+950,Technical Degree,Research & Development,3
+951,Life Sciences,Research & Development,3
+952,Marketing,Sales,2
+954,Marketing,Sales,4
+956,Medical,Sales,3
+957,Medical,Research & Development,3
+958,Medical,Research & Development,4
+959,Other,Sales,3
+960,Technical Degree,Research & Development,3
+961,Medical,Research & Development,3
+964,Medical,Research & Development,4
+966,Medical,Research & Development,4
+967,Life Sciences,Sales,1
+969,Life Sciences,Research & Development,3
+970,Life Sciences,Sales,4
+972,Life Sciences,Research & Development,2
+974,Technical Degree,Sales,3
+975,Medical,Sales,3
+976,Life Sciences,Research & Development,2
+977,Technical Degree,Research & Development,3
+981,Medical,Sales,2
+982,Other,Sales,2
+983,Technical Degree,Sales,3
+984,Life Sciences,Sales,4
+985,Life Sciences,Sales,5
+986,Life Sciences,Sales,3
+987,Medical,Research & Development,4
+990,Technical Degree,Sales,4
+991,Medical,Research & Development,2
+992,Life Sciences,Sales,3
+994,Life Sciences,Research & Development,3
+995,Life Sciences,Research & Development,1
+996,Medical,Research & Development,4
+997,Medical,Research & Development,2
+998,Other,Research & Development,4
+999,Medical,Research & Development,3
+1001,Technical Degree,Research & Development,4
+1002,Life Sciences,Research & Development,2
+1003,Life Sciences,Sales,2
+1004,Life Sciences,Research & Development,3
+1005,Life Sciences,Research & Development,3
+1006,Medical,Research & Development,1
+1007,Medical,Research & Development,2
+1009,Medical,Research & Development,1
+1010,Other,Research & Development,4
+1011,Life Sciences,Research & Development,1
+1012,Life Sciences,Research & Development,2
+1013,Technical Degree,Research & Development,3
+1014,Medical,Research & Development,4
+1015,Life Sciences,Research & Development,2
+1016,Medical,Research & Development,3
+1017,Medical,Research & Development,3
+1018,Medical,Research & Development,2
+1019,Life Sciences,Research & Development,1
+1022,Life Sciences,Research & Development,3
+1024,Life Sciences,Research & Development,4
+1025,Medical,Research & Development,2
+1026,Life Sciences,Research & Development,1
+1027,Life Sciences,Research & Development,4
+1028,Other,Research & Development,3
+1029,Marketing,Sales,2
+1030,Life Sciences,Research & Development,3
+1032,Life Sciences,Research & Development,3
+1033,Medical,Research & Development,2
+1034,Medical,Research & Development,4
+1035,Life Sciences,Research & Development,1
+1036,Life Sciences,Sales,4
+1037,Medical,Sales,2
+1038,Marketing,Sales,1
+1039,Medical,Sales,3
+1040,Life Sciences,Sales,3
+1042,Life Sciences,Research & Development,4
+1043,Medical,Research & Development,3
+1044,Life Sciences,Sales,1
+1045,Life Sciences,Sales,2
+1046,Medical,Research & Development,4
+1047,Marketing,Sales,4
+1048,Technical Degree,Sales,2
+1049,Medical,Human Resources,4
+1050,Marketing,Sales,3
+1052,Other,Research & Development,3
+1053,Life Sciences,Research & Development,3
+1055,Life Sciences,Sales,4
+1056,Medical,Sales,1
+1060,Other,Research & Development,4
+1061,Medical,Research & Development,4
+1062,Other,Research & Development,3
+1066,Marketing,Sales,3
+1068,Medical,Research & Development,1
+1069,Medical,Research & Development,4
+1070,Life Sciences,Sales,4
+1071,Medical,Research & Development,3
+1073,Medical,Research & Development,5
+1074,Medical,Research & Development,1
+1076,Medical,Sales,3
+1077,Marketing,Sales,3
+1079,Life Sciences,Research & Development,3
+1080,Life Sciences,Research & Development,4
+1081,Life Sciences,Research & Development,4
+1082,Technical Degree,Research & Development,2
+1083,Medical,Research & Development,2
+1084,Other,Research & Development,3
+1085,Technical Degree,Research & Development,2
+1088,Life Sciences,Research & Development,1
+1092,Technical Degree,Research & Development,4
+1094,Life Sciences,Research & Development,5
+1096,Life Sciences,Research & Development,1
+1097,Other,Research & Development,3
+1098,Medical,Human Resources,2
+1099,Life Sciences,Research & Development,3
+1100,Technical Degree,Sales,3
+1101,Medical,Research & Development,4
+1102,Life Sciences,Research & Development,2
+1103,Life Sciences,Research & Development,1
+1105,Life Sciences,Sales,4
+1106,Technical Degree,Research & Development,1
+1107,Medical,Research & Development,3
+1108,Medical,Research & Development,3
+1109,Medical,Research & Development,2
+1111,Medical,Research & Development,3
+1113,Other,Sales,4
+1114,Life Sciences,Sales,3
+1115,Life Sciences,Research & Development,4
+1116,Medical,Research & Development,4
+1117,Life Sciences,Sales,4
+1118,Life Sciences,Research & Development,4
+1119,Marketing,Sales,4
+1120,Life Sciences,Research & Development,4
+1121,Medical,Research & Development,3
+1124,Marketing,Sales,1
+1125,Marketing,Sales,2
+1126,Life Sciences,Research & Development,3
+1127,Life Sciences,Research & Development,3
+1128,Medical,Research & Development,3
+1131,Technical Degree,Research & Development,1
+1132,Life Sciences,Research & Development,3
+1133,Life Sciences,Research & Development,4
+1135,Life Sciences,Sales,3
+1136,Life Sciences,Research & Development,1
+1137,Marketing,Sales,2
+1138,Technical Degree,Sales,4
+1140,Life Sciences,Research & Development,2
+1143,Life Sciences,Research & Development,3
+1148,Medical,Research & Development,3
+1150,Medical,Research & Development,1
+1152,Human Resources,Human Resources,3
+1154,Life Sciences,Research & Development,3
+1156,Medical,Research & Development,1
+1157,Marketing,Sales,4
+1158,Life Sciences,Research & Development,4
+1160,Medical,Research & Development,3
+1161,Medical,Research & Development,2
+1162,Life Sciences,Research & Development,3
+1163,Life Sciences,Sales,1
+1164,Technical Degree,Human Resources,4
+1165,Life Sciences,Sales,1
+1166,Medical,Research & Development,4
+1167,Life Sciences,Sales,3
+1171,Marketing,Sales,4
+1172,Medical,Research & Development,4
+1173,Medical,Research & Development,3
+1175,Life Sciences,Research & Development,1
+1177,Medical,Research & Development,4
+1179,Marketing,Sales,3
+1180,Medical,Research & Development,2
+1182,Life Sciences,Research & Development,3
+1184,Medical,Research & Development,3
+1185,Other,Research & Development,4
+1188,Marketing,Sales,3
+1190,Life Sciences,Sales,1
+1191,Technical Degree,Research & Development,4
+1192,Medical,Research & Development,1
+1193,Life Sciences,Research & Development,2
+1195,Medical,Research & Development,3
+1196,Life Sciences,Research & Development,3
+1198,Life Sciences,Research & Development,3
+1200,Life Sciences,Research & Development,4
+1201,Medical,Research & Development,2
+1202,Life Sciences,Research & Development,1
+1203,Life Sciences,Research & Development,4
+1204,Marketing,Sales,3
+1206,Life Sciences,Research & Development,3
+1207,Human Resources,Human Resources,3
+1210,Life Sciences,Research & Development,2
+1211,Life Sciences,Sales,4
+1212,Medical,Sales,4
+1215,Medical,Research & Development,3
+1216,Medical,Research & Development,4
+1217,Life Sciences,Research & Development,2
+1218,Life Sciences,Sales,4
+1219,Life Sciences,Research & Development,2
+1220,Medical,Sales,3
+1221,Life Sciences,Research & Development,4
+1224,Life Sciences,Research & Development,4
+1225,Other,Research & Development,4
+1226,Marketing,Sales,3
+1228,Technical Degree,Research & Development,4
+1231,Medical,Human Resources,5
+1233,Marketing,Sales,4
+1234,Other,Research & Development,3
+1235,Life Sciences,Research & Development,2
+1237,Technical Degree,Research & Development,3
+1238,Medical,Research & Development,3
+1239,Technical Degree,Sales,3
+1240,Life Sciences,Sales,4
+1241,Medical,Research & Development,3
+1242,Medical,Research & Development,5
+1243,Marketing,Sales,2
+1244,Life Sciences,Research & Development,3
+1245,Life Sciences,Research & Development,4
+1246,Life Sciences,Research & Development,1
+1248,Medical,Research & Development,3
+1249,Life Sciences,Research & Development,3
+1250,Life Sciences,Research & Development,3
+1251,Medical,Research & Development,2
+1252,Medical,Research & Development,3
+1254,Life Sciences,Sales,3
+1255,Life Sciences,Research & Development,3
+1256,Medical,Research & Development,2
+1257,Technical Degree,Research & Development,3
+1258,Technical Degree,Research & Development,2
+1259,Life Sciences,Research & Development,2
+1260,Life Sciences,Research & Development,3
+1263,Life Sciences,Research & Development,3
+1264,Life Sciences,Research & Development,3
+1265,Technical Degree,Research & Development,3
+1267,Marketing,Sales,3
+1268,Marketing,Sales,5
+1269,Life Sciences,Research & Development,3
+1270,Life Sciences,Research & Development,2
+1273,Life Sciences,Sales,1
+1275,Life Sciences,Research & Development,2
+1277,Marketing,Sales,3
+1278,Medical,Research & Development,1
+1279,Life Sciences,Research & Development,2
+1280,Marketing,Sales,2
+1281,Marketing,Sales,3
+1282,Life Sciences,Sales,3
+1283,Medical,Research & Development,4
+1285,Medical,Research & Development,3
+1286,Medical,Research & Development,4
+1288,Life Sciences,Research & Development,2
+1289,Life Sciences,Human Resources,3
+1291,Life Sciences,Research & Development,1
+1292,Medical,Research & Development,4
+1293,Marketing,Sales,4
+1294,Life Sciences,Research & Development,4
+1295,Medical,Research & Development,3
+1296,Life Sciences,Research & Development,3
+1297,Medical,Research & Development,2
+1298,Medical,Research & Development,2
+1299,Technical Degree,Research & Development,3
+1301,Technical Degree,Research & Development,3
+1303,Medical,Research & Development,3
+1304,Medical,Sales,3
+1306,Medical,Research & Development,3
+1307,Medical,Research & Development,4
+1308,Life Sciences,Research & Development,4
+1309,Life Sciences,Research & Development,2
+1310,Medical,Research & Development,3
+1311,Technical Degree,Research & Development,3
+1312,Technical Degree,Research & Development,4
+1314,Life Sciences,Human Resources,2
+1315,Life Sciences,Research & Development,3
+1317,Life Sciences,Research & Development,3
+1318,Marketing,Sales,4
+1319,Life Sciences,Sales,3
+1321,Medical,Research & Development,4
+1322,Life Sciences,Research & Development,2
+1324,Life Sciences,Sales,4
+1329,Medical,Sales,2
+1331,Life Sciences,Sales,3
+1333,Life Sciences,Research & Development,3
+1334,Life Sciences,Research & Development,1
+1336,Medical,Research & Development,2
+1338,Life Sciences,Human Resources,4
+1340,Life Sciences,Research & Development,2
+1344,Life Sciences,Research & Development,3
+1346,Life Sciences,Research & Development,3
+1349,Marketing,Sales,3
+1350,Life Sciences,Research & Development,4
+1352,Life Sciences,Human Resources,3
+1355,Life Sciences,Sales,2
+1356,Medical,Sales,2
+1358,Medical,Research & Development,1
+1360,Medical,Research & Development,4
+1361,Life Sciences,Research & Development,4
+1362,Marketing,Sales,3
+1363,Life Sciences,Research & Development,3
+1364,Medical,Sales,3
+1367,Technical Degree,Research & Development,2
+1368,Life Sciences,Research & Development,3
+1369,Medical,Research & Development,3
+1371,Life Sciences,Sales,1
+1372,Marketing,Sales,4
+1373,Life Sciences,Research & Development,3
+1374,Technical Degree,Research & Development,1
+1375,Medical,Research & Development,1
+1377,Medical,Research & Development,3
+1379,Life Sciences,Sales,3
+1380,Marketing,Sales,4
+1382,Life Sciences,Research & Development,3
+1383,Technical Degree,Research & Development,4
+1387,Life Sciences,Sales,3
+1389,Medical,Research & Development,4
+1390,Life Sciences,Sales,4
+1391,Marketing,Sales,3
+1392,Life Sciences,Research & Development,3
+1394,Life Sciences,Research & Development,1
+1395,Life Sciences,Sales,1
+1396,Marketing,Sales,1
+1397,Life Sciences,Research & Development,2
+1399,Life Sciences,Sales,1
+1401,Medical,Research & Development,2
+1402,Medical,Research & Development,3
+1403,Marketing,Sales,3
+1405,Life Sciences,Research & Development,4
+1407,Medical,Research & Development,1
+1408,Human Resources,Human Resources,3
+1409,Other,Research & Development,4
+1411,Medical,Research & Development,3
+1412,Life Sciences,Research & Development,2
+1415,Technical Degree,Research & Development,3
+1417,Other,Research & Development,3
+1419,Other,Human Resources,3
+1420,Life Sciences,Research & Development,2
+1421,Other,Research & Development,1
+1422,Medical,Research & Development,3
+1423,Medical,Research & Development,3
+1424,Medical,Research & Development,4
+1425,Marketing,Sales,4
+1427,Life Sciences,Sales,4
+1428,Marketing,Sales,4
+1430,Life Sciences,Research & Development,5
+1431,Other,Research & Development,4
+1433,Life Sciences,Research & Development,3
+1434,Life Sciences,Research & Development,1
+1435,Life Sciences,Research & Development,4
+1436,Marketing,Sales,4
+1438,Technical Degree,Research & Development,3
+1439,Life Sciences,Sales,2
+1440,Technical Degree,Research & Development,2
+1441,Life Sciences,Research & Development,2
+1443,Medical,Research & Development,4
+1445,Medical,Sales,1
+1446,Marketing,Sales,5
+1447,Life Sciences,Research & Development,3
+1448,Medical,Research & Development,5
+1449,Other,Research & Development,4
+1453,Life Sciences,Sales,2
+1457,Marketing,Sales,3
+1458,Life Sciences,Research & Development,3
+1459,Life Sciences,Research & Development,5
+1460,Medical,Research & Development,3
+1461,Medical,Human Resources,2
+1464,Life Sciences,Research & Development,3
+1465,Technical Degree,Research & Development,3
+1466,Marketing,Sales,3
+1467,Technical Degree,Human Resources,4
+1468,Medical,Research & Development,1
+1469,Medical,Sales,3
+1471,Life Sciences,Research & Development,3
+1472,Medical,Research & Development,3
+1473,Technical Degree,Research & Development,4
+1474,Medical,Research & Development,3
+1475,Life Sciences,Research & Development,3
+1477,Medical,Sales,3
+1478,Other,Sales,3
+1479,Life Sciences,Sales,1
+1480,Medical,Research & Development,2
+1481,Marketing,Sales,5
+1482,Technical Degree,Research & Development,3
+1483,Life Sciences,Research & Development,2
+1484,Life Sciences,Research & Development,4
+1485,Medical,Research & Development,3
+1486,Technical Degree,Sales,3
+1487,Technical Degree,Sales,3
+1489,Medical,Sales,4
+1492,Life Sciences,Sales,1
+1494,Medical,Research & Development,3
+1495,Life Sciences,Sales,2
+1496,Medical,Research & Development,1
+1497,Life Sciences,Sales,3
+1499,Life Sciences,Human Resources,3
+1501,Life Sciences,Research & Development,4
+1502,Medical,Research & Development,4
+1503,Medical,Sales,3
+1504,Medical,Research & Development,2
+1506,Life Sciences,Research & Development,3
+1507,Life Sciences,Sales,3
+1509,Medical,Research & Development,2
+1513,Life Sciences,Research & Development,1
+1514,Life Sciences,Research & Development,1
+1515,Life Sciences,Research & Development,5
+1516,Medical,Research & Development,3
+1520,Medical,Research & Development,4
+1522,Technical Degree,Research & Development,4
+1523,Life Sciences,Research & Development,3
+1525,Life Sciences,Research & Development,3
+1527,Life Sciences,Sales,3
+1529,Life Sciences,Research & Development,3
+1533,Life Sciences,Research & Development,1
+1534,Life Sciences,Research & Development,4
+1535,Technical Degree,Sales,3
+1537,Life Sciences,Research & Development,3
+1539,Medical,Research & Development,5
+1541,Technical Degree,Sales,2
+1542,Medical,Research & Development,3
+1543,Medical,Research & Development,3
+1544,Other,Research & Development,1
+1545,Life Sciences,Research & Development,3
+1546,Technical Degree,Research & Development,3
+1547,Life Sciences,Research & Development,3
+1548,Medical,Sales,2
+1549,Life Sciences,Research & Development,4
+1550,Medical,Human Resources,2
+1551,Technical Degree,Research & Development,2
+1552,Life Sciences,Research & Development,2
+1553,Technical Degree,Research & Development,4
+1554,Life Sciences,Sales,4
+1555,Life Sciences,Research & Development,2
+1556,Life Sciences,Sales,4
+1557,Life Sciences,Sales,4
+1558,Life Sciences,Research & Development,3
+1560,Life Sciences,Sales,4
+1562,Life Sciences,Sales,3
+1563,Human Resources,Human Resources,4
+1564,Medical,Research & Development,3
+1568,Technical Degree,Sales,4
+1569,Life Sciences,Research & Development,3
+1572,Technical Degree,Research & Development,5
+1573,Medical,Research & Development,3
+1574,Technical Degree,Research & Development,4
+1576,Other,Research & Development,4
+1577,Medical,Research & Development,4
+1578,Marketing,Sales,5
+1580,Life Sciences,Research & Development,4
+1581,Life Sciences,Research & Development,3
+1582,Life Sciences,Sales,3
+1583,Life Sciences,Sales,3
+1585,Life Sciences,Sales,4
+1586,Medical,Research & Development,1
+1587,Medical,Research & Development,4
+1588,Medical,Sales,3
+1590,Life Sciences,Research & Development,1
+1591,Marketing,Sales,3
+1592,Technical Degree,Research & Development,3
+1594,Life Sciences,Research & Development,4
+1595,Other,Research & Development,2
+1596,Life Sciences,Research & Development,3
+1597,Technical Degree,Research & Development,4
+1598,Life Sciences,Sales,2
+1599,Technical Degree,Research & Development,3
+1601,Life Sciences,Research & Development,2
+1602,Life Sciences,Sales,4
+1604,Medical,Research & Development,3
+1605,Other,Research & Development,2
+1606,Medical,Research & Development,5
+1607,Other,Research & Development,4
+1608,Medical,Research & Development,3
+1609,Medical,Research & Development,3
+1611,Medical,Research & Development,5
+1612,Marketing,Sales,3
+1613,Other,Sales,4
+1614,Life Sciences,Research & Development,4
+1615,Life Sciences,Research & Development,4
+1617,Life Sciences,Research & Development,4
+1618,Medical,Research & Development,5
+1619,Other,Research & Development,3
+1621,Life Sciences,Research & Development,5
+1622,Medical,Research & Development,3
+1623,Medical,Research & Development,1
+1624,Medical,Sales,2
+1625,Life Sciences,Human Resources,4
+1627,Medical,Research & Development,2
+1628,Life Sciences,Research & Development,3
+1630,Life Sciences,Research & Development,4
+1631,Life Sciences,Research & Development,3
+1633,Medical,Research & Development,3
+1635,Other,Research & Development,2
+1638,Medical,Research & Development,2
+1639,Medical,Sales,3
+1640,Medical,Research & Development,3
+1641,Life Sciences,Research & Development,3
+1642,Human Resources,Human Resources,5
+1644,Medical,Research & Development,5
+1645,Medical,Sales,2
+1646,Technical Degree,Research & Development,1
+1647,Medical,Research & Development,3
+1648,Medical,Research & Development,3
+1649,Life Sciences,Research & Development,3
+1650,Medical,Sales,3
+1651,Life Sciences,Research & Development,4
+1653,Life Sciences,Research & Development,1
+1654,Medical,Research & Development,3
+1655,Other,Research & Development,4
+1656,Life Sciences,Research & Development,5
+1657,Medical,Sales,3
+1658,Life Sciences,Research & Development,3
+1659,Life Sciences,Research & Development,3
+1661,Life Sciences,Research & Development,1
+1662,Medical,Research & Development,4
+1664,Life Sciences,Research & Development,2
+1665,Medical,Research & Development,5
+1666,Life Sciences,Research & Development,2
+1667,Other,Sales,4
+1668,Life Sciences,Research & Development,3
+1669,Medical,Sales,3
+1670,Medical,Sales,4
+1671,Medical,Research & Development,3
+1673,Life Sciences,Sales,4
+1674,Medical,Research & Development,3
+1675,Medical,Research & Development,3
+1676,Life Sciences,Sales,4
+1677,Life Sciences,Research & Development,3
+1678,Life Sciences,Sales,2
+1680,Life Sciences,Sales,1
+1681,Life Sciences,Sales,3
+1682,Life Sciences,Research & Development,4
+1683,Life Sciences,Human Resources,3
+1684,Medical,Research & Development,1
+1687,Medical,Research & Development,2
+1689,Medical,Research & Development,4
+1691,Medical,Sales,2
+1692,Life Sciences,Research & Development,4
+1693,Medical,Research & Development,3
+1694,Technical Degree,Research & Development,3
+1696,Medical,Research & Development,2
+1697,Medical,Research & Development,4
+1698,Medical,Research & Development,3
+1700,Medical,Sales,4
+1701,Life Sciences,Research & Development,3
+1702,Life Sciences,Sales,3
+1703,Life Sciences,Research & Development,3
+1704,Medical,Research & Development,4
+1706,Medical,Sales,3
+1707,Medical,Research & Development,3
+1708,Marketing,Sales,3
+1709,Medical,Research & Development,4
+1710,Life Sciences,Sales,4
+1712,Life Sciences,Research & Development,1
+1714,Human Resources,Human Resources,1
+1716,Life Sciences,Sales,3
+1718,Medical,Research & Development,4
+1719,Technical Degree,Research & Development,2
+1720,Life Sciences,Research & Development,3
+1721,Life Sciences,Research & Development,4
+1722,Human Resources,Human Resources,3
+1724,Life Sciences,Research & Development,2
+1725,Medical,Research & Development,1
+1727,Life Sciences,Research & Development,4
+1728,Life Sciences,Research & Development,4
+1729,Life Sciences,Research & Development,1
+1731,Marketing,Sales,4
+1732,Life Sciences,Sales,3
+1733,Marketing,Sales,5
+1734,Life Sciences,Sales,2
+1735,Medical,Research & Development,1
+1736,Technical Degree,Research & Development,1
+1737,Life Sciences,Research & Development,3
+1739,Life Sciences,Sales,3
+1740,Medical,Sales,4
+1744,Life Sciences,Human Resources,3
+1745,Technical Degree,Research & Development,4
+1746,Medical,Human Resources,3
+1747,Human Resources,Human Resources,3
+1749,Technical Degree,Sales,3
+1751,Medical,Research & Development,3
+1752,Marketing,Sales,3
+1753,Life Sciences,Research & Development,3
+1754,Marketing,Sales,2
+1755,Medical,Research & Development,4
+1756,Marketing,Sales,3
+1757,Marketing,Sales,4
+1758,Life Sciences,Sales,3
+1760,Medical,Research & Development,2
+1761,Marketing,Sales,4
+1762,Technical Degree,Research & Development,3
+1763,Life Sciences,Research & Development,3
+1764,Technical Degree,Research & Development,4
+1766,Medical,Research & Development,3
+1767,Technical Degree,Research & Development,3
+1768,Medical,Research & Development,3
+1770,Medical,Research & Development,3
+1771,Technical Degree,Research & Development,3
+1772,Life Sciences,Research & Development,4
+1774,Life Sciences,Sales,3
+1775,Medical,Research & Development,4
+1778,Life Sciences,Human Resources,3
+1779,Life Sciences,Sales,2
+1780,Marketing,Sales,1
+1782,Other,Research & Development,2
+1783,Medical,Research & Development,1
+1784,Marketing,Sales,4
+1786,Technical Degree,Research & Development,3
+1787,Marketing,Sales,2
+1789,Medical,Research & Development,4
+1790,Life Sciences,Research & Development,3
+1792,Medical,Research & Development,2
+1794,Other,Human Resources,2
+1797,Life Sciences,Sales,3
+1798,Life Sciences,Research & Development,4
+1799,Life Sciences,Research & Development,3
+1800,Medical,Research & Development,1
+1801,Life Sciences,Sales,2
+1802,Life Sciences,Research & Development,2
+1803,Medical,Research & Development,3
+1804,Medical,Research & Development,2
+1805,Human Resources,Human Resources,3
+1807,Life Sciences,Research & Development,4
+1809,Medical,Research & Development,4
+1812,Life Sciences,Sales,3
+1813,Life Sciences,Research & Development,3
+1814,Life Sciences,Research & Development,3
+1815,Marketing,Sales,1
+1816,Medical,Research & Development,3
+1818,Medical,Human Resources,2
+1821,Medical,Research & Development,2
+1822,Life Sciences,Research & Development,3
+1823,Technical Degree,Sales,2
+1824,Medical,Sales,3
+1826,Medical,Research & Development,4
+1827,Life Sciences,Research & Development,3
+1829,Life Sciences,Research & Development,3
+1830,Medical,Research & Development,4
+1833,Marketing,Sales,4
+1834,Medical,Research & Development,3
+1835,Marketing,Sales,4
+1836,Medical,Sales,3
+1837,Life Sciences,Research & Development,4
+1839,Medical,Research & Development,3
+1842,Human Resources,Human Resources,5
+1844,Human Resources,Human Resources,3
+1845,Life Sciences,Sales,4
+1847,Other,Research & Development,4
+1849,Life Sciences,Sales,4
+1850,Life Sciences,Research & Development,2
+1852,Medical,Research & Development,1
+1853,Marketing,Sales,4
+1854,Technical Degree,Research & Development,4
+1856,Life Sciences,Research & Development,4
+1857,Life Sciences,Research & Development,2
+1858,Life Sciences,Human Resources,2
+1859,Life Sciences,Research & Development,1
+1860,Life Sciences,Research & Development,3
+1862,Marketing,Sales,4
+1863,Technical Degree,Sales,3
+1864,Medical,Sales,1
+1865,Medical,Human Resources,1
+1866,Medical,Research & Development,3
+1867,Life Sciences,Research & Development,3
+1868,Life Sciences,Research & Development,2
+1869,Life Sciences,Sales,3
+1870,Life Sciences,Research & Development,3
+1871,Other,Research & Development,4
+1873,Technical Degree,Research & Development,4
+1875,Medical,Sales,3
+1876,Medical,Sales,3
+1878,Life Sciences,Research & Development,1
+1880,Technical Degree,Sales,4
+1881,Life Sciences,Research & Development,3
+1882,Life Sciences,Sales,3
+1883,Life Sciences,Research & Development,3
+1885,Medical,Research & Development,4
+1886,Other,Research & Development,2
+1888,Life Sciences,Research & Development,2
+1890,Human Resources,Human Resources,1
+1892,Life Sciences,Research & Development,4
+1893,Life Sciences,Research & Development,2
+1898,Medical,Sales,2
+1900,Medical,Research & Development,3
+1903,Life Sciences,Research & Development,4
+1905,Technical Degree,Research & Development,4
+1907,Life Sciences,Research & Development,2
+1908,Marketing,Sales,2
+1909,Marketing,Sales,3
+1911,Medical,Research & Development,3
+1912,Medical,Sales,2
+1915,Medical,Sales,1
+1916,Medical,Research & Development,3
+1918,Other,Research & Development,3
+1922,Medical,Research & Development,4
+1924,Marketing,Sales,4
+1927,Life Sciences,Sales,2
+1928,Technical Degree,Sales,3
+1929,Life Sciences,Sales,4
+1931,Technical Degree,Research & Development,4
+1932,Other,Research & Development,4
+1933,Marketing,Sales,2
+1934,Technical Degree,Research & Development,4
+1935,Marketing,Sales,5
+1936,Medical,Research & Development,2
+1937,Medical,Research & Development,3
+1938,Life Sciences,Sales,3
+1939,Life Sciences,Research & Development,2
+1940,Life Sciences,Research & Development,2
+1941,Life Sciences,Research & Development,1
+1943,Marketing,Sales,4
+1944,Human Resources,Human Resources,3
+1945,Medical,Sales,4
+1947,Medical,Research & Development,3
+1948,Medical,Research & Development,2
+1949,Life Sciences,Research & Development,4
+1950,Marketing,Sales,3
+1951,Medical,Sales,4
+1952,Medical,Research & Development,3
+1954,Life Sciences,Research & Development,3
+1955,Medical,Research & Development,4
+1956,Life Sciences,Research & Development,3
+1960,Technical Degree,Research & Development,3
+1961,Life Sciences,Sales,3
+1962,Life Sciences,Sales,4
+1965,Marketing,Sales,3
+1966,Life Sciences,Research & Development,4
+1967,Marketing,Sales,4
+1968,Life Sciences,Sales,4
+1969,Life Sciences,Research & Development,2
+1970,Life Sciences,Research & Development,2
+1971,Life Sciences,Research & Development,3
+1972,Other,Human Resources,4
+1973,Human Resources,Human Resources,4
+1974,Medical,Research & Development,1
+1975,Marketing,Sales,4
+1976,Life Sciences,Research & Development,2
+1979,Medical,Research & Development,3
+1980,Medical,Research & Development,3
+1981,Life Sciences,Research & Development,2
+1982,Other,Research & Development,2
+1985,Technical Degree,Research & Development,3
+1986,Marketing,Sales,2
+1987,Human Resources,Human Resources,3
+1989,Medical,Research & Development,2
+1992,Other,Research & Development,1
+1993,Medical,Research & Development,3
+1994,Medical,Research & Development,2
+1995,Life Sciences,Sales,4
+1996,Life Sciences,Sales,2
+1997,Life Sciences,Research & Development,4
+1998,Life Sciences,Research & Development,4
+1999,Life Sciences,Research & Development,3
+2000,Medical,Research & Development,1
+2003,Medical,Research & Development,4
+2007,Life Sciences,Research & Development,2
+2008,Medical,Research & Development,4
+2009,Medical,Research & Development,2
+2010,Life Sciences,Research & Development,4
+2012,Life Sciences,Research & Development,4
+2013,Medical,Sales,4
+2014,Life Sciences,Research & Development,1
+2015,Medical,Research & Development,3
+2016,Marketing,Sales,4
+2017,Life Sciences,Research & Development,3
+2018,Other,Sales,2
+2019,Life Sciences,Sales,4
+2020,Medical,Research & Development,3
+2021,Medical,Sales,1
+2022,Life Sciences,Research & Development,3
+2023,Marketing,Sales,3
+2024,Medical,Sales,3
+2025,Life Sciences,Research & Development,2
+2026,Life Sciences,Research & Development,4
+2027,Medical,Research & Development,4
+2031,Life Sciences,Research & Development,3
+2032,Technical Degree,Research & Development,2
+2034,Life Sciences,Research & Development,4
+2035,Marketing,Sales,3
+2036,Marketing,Sales,4
+2037,Life Sciences,Sales,3
+2038,Technical Degree,Research & Development,3
+2040,Life Sciences,Human Resources,4
+2041,Life Sciences,Sales,2
+2044,Life Sciences,Sales,4
+2045,Marketing,Sales,4
+2046,Life Sciences,Sales,3
+2048,Life Sciences,Research & Development,4
+2049,Life Sciences,Research & Development,4
+2051,Medical,Research & Development,4
+2052,Life Sciences,Research & Development,4
+2053,Other,Research & Development,2
+2054,Medical,Research & Development,4
+2055,Marketing,Sales,3
+2056,Marketing,Sales,1
+2057,Medical,Research & Development,3
+2060,Other,Sales,3
+2061,Medical,Research & Development,2
+2062,Medical,Research & Development,1
+2064,Life Sciences,Research & Development,3
+2065,Medical,Sales,3
+2068,Medical,Research & Development,3
